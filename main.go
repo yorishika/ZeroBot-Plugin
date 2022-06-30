@@ -69,6 +69,7 @@ import (
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"          // 三次元小姐姐
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"  // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru" // DeepDanbooru二次元图标签识别
+
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"          // 嘉心糖发病
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle" // 漂流瓶
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"     // 合成emoji
@@ -85,23 +86,26 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/inject"       // 注入指令
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/jandan"       // 煎蛋网无聊图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/juejuezi"     // 绝绝子生成器
+
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/lolicon"        // lolicon 随机图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/midicreate"    // 简易midi音乐制作
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"          // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar" // 摸鱼人日历
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         // 点歌
+
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"     // 本地涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife" // 本地老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"    // 拼音首字母缩写释义工具
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"      // 铅笔小说网搜索
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"       // nsfw图片识别
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"    // 浅草寺求签
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"     // 一群一天一夫一妻制群老婆
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"     // 投胎
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"    // 在线运行代码
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"   // 以图搜图
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"      // 叔叔的AI二次元图片放大
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"      // 分数
+
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"      // 铅笔小说网搜索
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"     // nsfw图片识别
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"  // 浅草寺求签
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"   // 一群一天一夫一妻制群老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"   // 投胎
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"  // 在线运行代码
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao" // 以图搜图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"    // 叔叔的AI二次元图片放大
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"    // 分数
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"       // 来份涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"       // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"       // 测定
